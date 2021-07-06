@@ -10,8 +10,8 @@
   * <a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
-  * [Blog Posts](https://radiyahsabur.medium.com/)
-
+  * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
+</p>
 
 ## 📈 Github Stats:
 
