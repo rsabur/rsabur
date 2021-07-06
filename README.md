@@ -6,6 +6,8 @@
 
 <hr>
 
+<p align="center">
+ <samp>
 * 👩🏾‍💻 I love fashion, programming, travel and film
 * 📚 I find fullfilment from creating things, solving problems and continual learning
 * 🤟🏾 I am experienced in Ruby, Rails, Javascript, React.js, HTML/CSS, Bootstrap UI, Material UI and Semantic UI
@@ -17,9 +19,10 @@
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
   * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
-
+ </samp>
 <br> <br>
   <img src="https://komarev.com/ghpvc/?username=rsabur" alt="https://github.com/rsabur" />
+</p>
 
 <hr>
 
