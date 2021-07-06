@@ -18,7 +18,7 @@
 
 <h1 align="center">🔍 Find Me Around the Web</h1>
 
-<a target="_blank"href="https://www.linkedin.com/in/radiyahsabur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/radiyahsabur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
 <a href="https://radiyahsabur.com" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="Radiyah Sabur's Portfolio" height="30"/></a>
 <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
