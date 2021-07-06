@@ -42,15 +42,13 @@
 <a href="https://radiyahsabur.com" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="Radiyah Sabur's Portfolio" height="25"/></a>
 <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
 </p>
-  
-
 
 <hr>
 
 <h2 align="center"> 📈 Github Stats</h2>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur&langs_count=5&theme=vue-dark)](https://github.com/rsabur/github-readme-stats)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&theme=vue-dark&showicons=true)](https://github.com/rsabur/github-readme-stats)
-
 
 <hr>
 
