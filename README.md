@@ -1,4 +1,8 @@
-# Hi, I'm Radiyah! 👋🏾
+<h1 style="font-family:verdana;">Hi, I'm Radiyah! 👋🏾</h1>
+
+<img src="https://media.istockphoto.com/vectors/young-african-woman-with-dark-hair-works-on-a-laptop-work-from-home-vector-id1251388737?k=6&m=1251388737&s=612x612&w=0&h=eJdo48hvDpL3ZpTYYovd4u44Ec_FE5k8rlnwJVs-JT0=" alt="cartoon girl with computer"/>
+
+<hr>
 
 * 👩🏾‍💻 I love fashion, programming, travel and film
 * 📚 I find fullfilment from creating things, solving problems and continual learning
@@ -11,6 +15,8 @@
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
   * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
+
+<hr>
 
 <h2 align="center"> 📈 Github Stats</h2>
 
@@ -34,7 +40,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
+<hr>
 
 <h2 align="center">✍🏾 Latest Posts</h2>
 <p align="center">
