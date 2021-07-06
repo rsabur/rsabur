@@ -1,6 +1,8 @@
 <h1 style="font-family:verdana;">Hi, I'm Radiyah! 👋🏾</h1>
 
-<img align="center" src="https://media.istockphoto.com/vectors/young-african-woman-with-dark-hair-works-on-a-laptop-work-from-home-vector-id1251388737?k=6&m=1251388737&s=612x612&w=0&h=eJdo48hvDpL3ZpTYYovd4u44Ec_FE5k8rlnwJVs-JT0=" alt="cartoon girl with computer"/>
+<p align="center">
+<img src="https://media.istockphoto.com/vectors/young-african-woman-with-dark-hair-works-on-a-laptop-work-from-home-vector-id1251388737?k=6&m=1251388737&s=612x612&w=0&h=eJdo48hvDpL3ZpTYYovd4u44Ec_FE5k8rlnwJVs-JT0=" alt="cartoon girl with computer"/>
+</p>
 
 <hr>
 
