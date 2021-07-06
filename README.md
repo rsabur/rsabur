@@ -13,10 +13,13 @@
   * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
 </p>
 
-## 📈 Github Stats:
-
+<h2 align="center"> 📈 Github Stats</h2>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur)](https://github.com/rsabur/github-readme-stats)
 [![Radiyah's github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rsabur/github-readme-stats)
+</p>
+
+<hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
