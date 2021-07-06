@@ -16,26 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=rsabur" alt="https://github.com/rsabur" />
 </p>
 
-<hr> 
-
-<h2 align="center">🔍 Find Me Around the Web</h2>
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/radiyahsabur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
-<a href="https://radiyahsabur.com" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="Radiyah Sabur's Portfolio" height="25"/></a>
-<a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
-</p>
-  
-
-
-<hr>
-
-<h2 align="center"> 📈 Github Stats</h2>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur&langs_count=5&theme=vue-dark)](https://github.com/rsabur/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&theme=vue-dark&showicons=true)](https://github.com/rsabur/github-readme-stats)
-
-
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
@@ -52,6 +32,25 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+<hr> 
+
+<h2 align="center">🔍 Find Me Around the Web</h2>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/radiyahsabur/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
+<a href="https://radiyahsabur.com" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/178-1787529_deploy-to-github-pages-github-pages-logo-png.png" alt="Radiyah Sabur's Portfolio" height="25"/></a>
+<a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
+</p>
+  
+
+
+<hr>
+
+<h2 align="center"> 📈 Github Stats</h2>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur&langs_count=5&theme=vue-dark)](https://github.com/rsabur/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&theme=vue-dark&showicons=true)](https://github.com/rsabur/github-readme-stats)
+
 
 <hr>
 
