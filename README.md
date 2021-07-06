@@ -7,19 +7,19 @@
 <hr>
 
 <p align="center">
-* 👩🏾‍💻 I love fashion, programming, travel and film
-* 📚 I find fullfilment from creating things, solving problems and continual learning
-* 🤟🏾 I am experienced in Ruby, Rails, Javascript, React.js, HTML/CSS, Bootstrap UI, Material UI and Semantic UI
-* 👩🏾‍🎓 I am a new bootcamp grad earger to plant my roots and grow
-* 📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms
+👩🏾‍🎓 I am a new bootcamp grad earger to plant my roots and grow.
+👩🏾‍💻 I love fashion, programming, travel and film.
+📚 I find fullfilment from creating things, solving problems and continual learning.
+🤟🏾 I am experienced in Ruby and JavaScript based programming.
+📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms.
 </p>
 
-* 🔍 Find Me Around the Web:
-  * [![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
-  * <a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
-  * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
-  * [Portfolio](https://radiyahsabur.com)
-  * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
+<p align="center">🔍 Find Me Around the Web</h1>
+[![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
+<a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
+[![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
+[Portfolio](https://radiyahsabur.com)
+<a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
 
 <br> <br>
 
