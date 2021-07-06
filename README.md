@@ -27,6 +27,3 @@ I am currently improving and expanding on my React skills: Redux and React Nativ
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/1" alt="Recent Article 1">
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/2" alt="Recent Article 2">
-
-
-I'd love to connect with different people so feel free to say hi! 
