@@ -12,6 +12,8 @@
 📚 I find fullfilment from creating things, solving problems and continual learning.
 🤟🏾 I am experienced in Ruby and JavaScript based programming.
 📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms.
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=rsabur" alt="https://github.com/rsabur" />
 </p>
 
 <hr> 
@@ -24,11 +26,7 @@
 <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
 </span>
   
-<br> <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsabur" alt="https://github.com/rsabur" />
-</p>
 
 <hr>
 
