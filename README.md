@@ -11,7 +11,7 @@
 👩🏾‍💻 I love fashion, programming, travel and film.
 📚 I find fullfilment from creating things, solving problems and continual learning.
 🤟🏾 I am experienced in Ruby and JavaScript based programming.
-📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms.
+📖  I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=rsabur" alt="https://github.com/rsabur" />
 </p>
