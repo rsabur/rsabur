@@ -11,9 +11,9 @@
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
   * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
-</p>
 
 <h2 align="center"> 📈 Github Stats</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur)](https://github.com/rsabur/github-readme-stats)
 [![Radiyah's github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rsabur/github-readme-stats)
 
