@@ -6,7 +6,7 @@
 * 👩🏾‍🎓 I am a new bootcamp grad and earger to grow
 * 🔍 How to find me:
   * [LinkedIn](https://www.linkedin.com/in/radiyahsabur)
-  * [Portfolio](radiyahsabur.com)
+  * [Portfolio](https://radiyahsabur.com)
   * [Medium Posts](https://radiyahsabur.medium.com/)
 
 ## 📈 Github Stats:
@@ -24,4 +24,4 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/2" alt="Recent Article 2">
 
 ## 📫  How To Reach Me:
-   For all business related inquires, please feel free to email me at rsabur58@gmail.com
+For all business related inquires, please feel free to email me at rsabur58@gmail.com
