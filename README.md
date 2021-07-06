@@ -18,6 +18,9 @@
   * [Portfolio](https://radiyahsabur.com)
   * <a href="https://medium.com/@radiyahsabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radiyahsabur" height="30" width="40" /></a>
 
+<br> <br>
+  <img src="https://komarev.com/ghpvc/?username=mermcintosh" alt="https://github.com/mermcintosh" />
+
 <hr>
 
 <h2 align="center"> 📈 Github Stats</h2>
