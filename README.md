@@ -1,4 +1,4 @@
-<h1 style="font-family:verdana;">Hi, I'm Radiyah! 👋🏾</h1>
+<h1 style="font-family:verdana;" align="center" >Hi there! Welcome to My GitHub! 👋🏾</h1>
 
 <p align="center">
 <img src="https://media.istockphoto.com/vectors/young-african-woman-with-dark-hair-works-on-a-laptop-work-from-home-vector-id1251388737?k=6&m=1251388737&s=612x612&w=0&h=eJdo48hvDpL3ZpTYYovd4u44Ec_FE5k8rlnwJVs-JT0=" alt="cartoon girl with computer"/>
@@ -14,7 +14,7 @@
 📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms.
 </p>
 
-<p align="center">🔍 Find Me Around the Web</h1>
+<h1 align="center">🔍 Find Me Around the Web</h1>
 [![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
 <a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
 [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
