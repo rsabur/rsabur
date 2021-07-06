@@ -4,7 +4,7 @@
 * 📚 I find fullfilment from creating things, solving problems and continual learning
 * 🤟🏾 I am experienced in Ruby, Rails, Javascript, React.js, HTML/CSS, Bootstrap UI, Material UI and Semantic UI
 * 👩🏾‍🎓 I am a new bootcamp grad earger to plant my roots and grow
-* I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms
+* 📖 I am currently improving and expanding on my React skills: Redux and React Native. As well as, data structures and algorithms
 * 🔍 Find Me Around the Web:
   * [![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
   * <a href="https://twitter.com/radiyahsabur" target="blank"><img src="https://img.shields.io/twitter/follow/radiyahsabur?logo=twitter&style=for-the-badge" alt="radiyahsabur" /></a>
