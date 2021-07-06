@@ -17,7 +17,6 @@ I am currently improving and expanding on my React skills: Redux and React Nativ
 ## 📈 Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur)](https://github.com/rsabur/github-readme-stats)
-
 [![Radiyah's github stats](https://github-readme-stats.vercel.app/api?username=rsabur&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/rsabur/github-readme-stats)
 
 ## ✍🏾 Check Out My Latest Posts:
