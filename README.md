@@ -6,6 +6,7 @@
 * 👩🏾‍🎓 I am a new bootcamp grad earger to plant my roots and grow
 * 🔍 Find Me Around the Web:
   * [![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
+  * <a href="https://twitter.com/intent/tweet?button_hashtag=radiyahsabur&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #radiyahsabur</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
   * [Blog Posts](https://radiyahsabur.medium.com/)
