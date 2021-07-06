@@ -8,7 +8,7 @@
   * [![Linkedin: radiyahsabur](https://img.shields.io/badge/-radiyahsabur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radiyahsabur/)](https://www.linkedin.com/in/radiyahsabur/)
   * [![GitHub Radiyah](https://img.shields.io/github/followers/rsabur?label=follow&style=social)](https://github.com/rsabur)
   * [Portfolio](https://radiyahsabur.com)
-  * [Medium Posts](https://radiyahsabur.medium.com/)
+  * [Blog Posts](https://radiyahsabur.medium.com/)
 
 ## 👩🏾‍🏫 What I'm Focusing On:
 
