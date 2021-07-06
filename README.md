@@ -28,4 +28,5 @@ I am currently improving and expanding on my React skills: Redux and React Nativ
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@radiyahsabur/2" alt="Recent Article 2">
 
 ## 📫 How To Reach Me:
-Feel free to contact me at (rsabur58@gmail.com) for jobs or collaboration.
+Feel free to contact me for jobs or collaboration./
+rsabur58@gmail.com
