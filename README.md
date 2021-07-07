@@ -37,8 +37,8 @@
 
 <h2 align="center"> 📈 Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/ashleypean/github-readme-stats)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rsabur&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/ashleypean/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabur&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/ashleypean/github-readme-stats)
 
 <hr>
 
