@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-👩🏾‍🎓 I am a new bootcamp grad earger to plant my roots and grow.
+👩🏾‍🎓 I am a new bootcamp grad eager to plant my roots and grow.
 👩🏾‍💻 I love fashion, programming, travel and film.
 📚 I find fullfilment from creating things, solving problems and continual learning.
 🤟🏾 I am experienced in Ruby and JavaScript based programming.
